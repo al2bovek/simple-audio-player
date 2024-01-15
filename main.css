@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: darkgoldenrod  
+}
+main {
+    width: 33%;
+    margin: 0 auto;
+    background-color: bisque;
+}
+h1, p {
+    border-left: 0.3rem solid darkgray;
+    padding: 0.3rem;
+}
+.header > img {
+    width: 20%;
+    border-bottom-right-radius: 50%;
+}
+.header {
+    padding: 2rem;
+    text-align: center;
+}
+p {
+    font-size: 2rem;
+}
+.tracks {
+    padding: 2rem;
+    text-align: center;  
+}
+.tracks > img {
+    width: 50px;
+    heigth: 50px;
+    border-bottom-right-radius: 50%;
+}
+figcaption {
+    font-size: 1.3rem;
+    color: darkgray
+}
